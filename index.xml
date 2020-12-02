@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hassan Mussana</title>
+    <link>https://hmussana.github.io/</link>
+    <description>Recent content on Hassan Mussana</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://hmussana.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>$ whois hmussana</title>
+      <link>https://hmussana.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hmussana.github.io/about/</guid>
+      <description>Introduction Hi! I am Hassan Mussana. A security guy with super-paranoid instincts, a software engineer (barely), a devsecops advocate, a lover of turn-based strategy games, a grammar nazi, a chai lover, a cook, and a history enthusiast.
+A SOC analyst turned cloud-sec guy, touching dfir &amp;amp; hunting in between. And now just the guy who wouldn&amp;rsquo;t approve your PR if things are not aligned or in alphabetical order or have extra spaces.</description>
+    </item>
+    
+    <item>
+      <title>Coming soon!!</title>
+      <link>https://hmussana.github.io/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://hmussana.github.io/posts/</guid>
+      <description># /usr/bin/env python3 print(f&amp;#34;&amp;#34;&amp;#34;Coming soon folks. Hold your hourses!&amp;#34;&amp;#34;&amp;#34;)  Output: Coming soon folks. Hold your hourses! </description>
+    </item>
+    
+  </channel>
+</rss>
