@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hassan Mussana</title>
-    <link>https://hmussana.com/</link>
+    <link>https://www.hmussana.com/</link>
     <description>Recent content on Hassan Mussana</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://hmussana.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://www.hmussana.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>$ whois hmussana</title>
-      <link>https://hmussana.com/about/</link>
+      <link>https://www.hmussana.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hmussana.com/about/</guid>
+      <guid>https://www.hmussana.com/about/</guid>
       <description>Brief Hi! I am Hassan Mussana. A security guy with super-paranoid instincts; a software engineer, a DevSecOps advocate, a lover of turn-based &amp;amp; real-time strategy games, a grammar nazi, a chai lover, a cook, and a history buff.
 Can sniff sift through a lot of log types and find out where is the fuck-up and also the guy who wouldn&amp;rsquo;t approve your PR if things are not aligned or not in alphabetical order or have extra spaces.</description>
     </item>
     
     <item>
       <title>Coming soon!!</title>
-      <link>https://hmussana.com/posts/</link>
+      <link>https://www.hmussana.com/posts/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://hmussana.com/posts/</guid>
+      <guid>https://www.hmussana.com/posts/</guid>
       <description># /usr/bin/env python3 print(f&amp;#34;&amp;#34;&amp;#34;Coming soon. Hold your horses!&amp;#34;&amp;#34;&amp;#34;)  Output: Coming soon. Hold your horses! </description>
     </item>
     
