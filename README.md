@@ -1,6 +1,6 @@
 # hmussana.github.io
 
-Welcome to my personal blog, traveller!
+Welcome to my portfolio-site repo, traveller!
 
 You can visit my portfolio at [www.hmussana.com](https://www.hmussana.com)
 
