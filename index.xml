@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hassan Mussana</title>
+    <title>Hassan Mussana 🇵🇰</title>
     <link>https://www.hmussana.com/</link>
-    <description>Recent content on Hassan Mussana</description>
+    <description>Recent content on Hassan Mussana 🇵🇰</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.hmussana.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>$ whois hmussana</title>
+      <title># whois hmussana</title>
       <link>https://www.hmussana.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hmussana.com/about/</guid>
-      <description>Hi! I&amp;rsquo;m Hassan, a Security Professional with super-paranoid instincts; a software engineer by education, a DevSecOps advocate, a lover of turn-based &amp;amp; real-time strategy games, a chai lover, a cook, and a history buff. Ever since I worked on my first incident in AWS environment, I&amp;rsquo;ve been fascinated by Cloud tech in general and AWS in specific. I&amp;rsquo;ve been working as a Cloud Security SME for a while now and sharpening my Cloud-Native security axe these days.</description>
+      <description>Hey there wanderer! I&amp;rsquo;m Hassan, a Security Engineer with super-paranoid instincts; software engineer by education, a Cloud-Security enthusiast, a lover of turn-based &amp;amp; real-time strategy games, a chai addict, and a history buff. In my professional career, I&amp;rsquo;ve worn several hats over the years including security analyst, security engineer, incident responder, devsecops engineer and have worked with several regulatory and security compliance frameworks. But ever since I worked on my first incident in a client&amp;rsquo;s AWS infrastructure, I&amp;rsquo;ve been fascinated by Cloud tech in general and AWS in specific.</description>
     </item>
     
     <item>
@@ -21,7 +21,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.hmussana.com/posts/</guid>
-      <description># /usr/bin/env python3 print(f&amp;#34;&amp;#34;&amp;#34;Coming soon. Hold your horses!&amp;#34;&amp;#34;&amp;#34;)  Output: Coming soon. Hold your horses! </description>
+      <description># /usr/bin/env python3  print(f&amp;#34;&amp;#34;&amp;#34;Coming soon. Hold your horses!&amp;#34;&amp;#34;&amp;#34;)  Output: Coming soon. Hold your horses! </description>
     </item>
     
   </channel>
